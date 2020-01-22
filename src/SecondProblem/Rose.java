@@ -53,4 +53,37 @@ public class Rose {
     public void printQuantityOfPetals(){
         System.out.println("The quantity of petals is: " + petals.size());
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        Rose rose = (Rose) o;
+
+        if (Double.compare(rose.height, height) != 0) return false;
+        if (petals != null ? !petals.equals(rose.petals) : rose.petals != null) return false;
+        return bud != null ? bud.equals(rose.bud) : rose.bud == null;
+
+    }
+
+    @Override
+    public int hashCode() {
+        int result;
+        long temp;
+        result = petals != null ? petals.hashCode() : 0;
+        result = 31 * result + (bud != null ? bud.hashCode() : 0);
+        temp = Double.doubleToLongBits(height);
+        result = 31 * result + (int) (temp ^ (temp >>> 32));
+        return result;
+    }
+
+    @Override
+    public String toString() {
+        return "Rose{" +
+                "petals=" + petals +
+                ", bud=" + bud +
+                ", height=" + height +
+                '}';
+    }
 }

@@ -54,4 +54,41 @@ public class Door {
     public void setWidth(double width) {
         this.width = width;
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        Door door = (Door) o;
+
+        if (Double.compare(door.width, width) != 0) return false;
+        if (Double.compare(door.height, height) != 0) return false;
+        if (isLocked != door.isLocked) return false;
+        return material != null ? material.equals(door.material) : door.material == null;
+
+    }
+
+    @Override
+    public int hashCode() {
+        int result;
+        long temp;
+        temp = Double.doubleToLongBits(width);
+        result = (int) (temp ^ (temp >>> 32));
+        temp = Double.doubleToLongBits(height);
+        result = 31 * result + (int) (temp ^ (temp >>> 32));
+        result = 31 * result + (material != null ? material.hashCode() : 0);
+        result = 31 * result + (isLocked ? 1 : 0);
+        return result;
+    }
+
+    @Override
+    public String toString() {
+        return "Door{" +
+                "width=" + width +
+                ", height=" + height +
+                ", material='" + material + '\'' +
+                ", isLocked=" + isLocked +
+                '}';
+    }
 }

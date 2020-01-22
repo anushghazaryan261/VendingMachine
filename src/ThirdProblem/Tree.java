@@ -61,4 +61,37 @@ public class Tree {
     public void makeLeafesFall(){
         leaves.clear();
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        Tree tree = (Tree) o;
+
+        if (Double.compare(tree.height, height) != 0) return false;
+        if (maxAmountOfLeaves != tree.maxAmountOfLeaves) return false;
+        return leaves != null ? leaves.equals(tree.leaves) : tree.leaves == null;
+
+    }
+
+    @Override
+    public int hashCode() {
+        int result;
+        long temp;
+        result = leaves != null ? leaves.hashCode() : 0;
+        temp = Double.doubleToLongBits(height);
+        result = 31 * result + (int) (temp ^ (temp >>> 32));
+        result = 31 * result + maxAmountOfLeaves;
+        return result;
+    }
+
+    @Override
+    public String toString() {
+        return "Tree{" +
+                "leaves=" + leaves +
+                ", height=" + height +
+                ", maxAmountOfLeaves=" + maxAmountOfLeaves +
+                '}';
+    }
 }

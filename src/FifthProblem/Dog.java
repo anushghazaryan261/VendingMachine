@@ -65,4 +65,36 @@ public class Dog extends Animal{
         }
     }
 
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        Dog dog = (Dog) o;
+
+        if (Double.compare(dog.age, age) != 0) return false;
+        if (name != null ? !name.equals(dog.name) : dog.name != null) return false;
+        return breed != null ? breed.equals(dog.breed) : dog.breed == null;
+
+    }
+
+    @Override
+    public int hashCode() {
+        int result;
+        long temp;
+        result = name != null ? name.hashCode() : 0;
+        result = 31 * result + (breed != null ? breed.hashCode() : 0);
+        temp = Double.doubleToLongBits(age);
+        result = 31 * result + (int) (temp ^ (temp >>> 32));
+        return result;
+    }
+
+    @Override
+    public String toString() {
+        return "Dog{" +
+                "name='" + name + '\'' +
+                ", breed='" + breed + '\'' +
+                ", age=" + age +
+                '}';
+    }
 }

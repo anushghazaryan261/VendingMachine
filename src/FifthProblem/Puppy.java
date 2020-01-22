@@ -6,7 +6,5 @@ public class Puppy extends Dog{
         if(age>0&&age<=1){
             super.setAge(age);
         }
-
-
     }
 }
