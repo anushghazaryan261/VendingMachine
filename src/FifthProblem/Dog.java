@@ -3,7 +3,7 @@ package FifthProblem;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class Dog {
+public class Dog extends Animal{
     private String name;
     private String breed;
     private double age;
@@ -44,7 +44,8 @@ public class Dog {
         this.age = age;
     }
 
-    public void bark(){
+    @Override
+    public void makeSounds(){
         System.out.println("I am barking!!");
     }
 

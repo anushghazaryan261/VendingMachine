@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d1293a2-70c2-465c-9254-8f98dd998da2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FifthProblem/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FifthProblem/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FifthProblem/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FifthProblem/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FifthProblem/Puppy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FifthProblem/Puppy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstProblem/Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstProblem/Door.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstProblem/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstProblem/House.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstProblem/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstProblem/Window.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FourthProblem/Photo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FourthProblem/Photo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FourthProblem/PhotoAlbum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FourthProblem/PhotoAlbum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SecondProblem/Bud.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondProblem/Bud.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SecondProblem/Petal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondProblem/Petal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SecondProblem/Rose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondProblem/Rose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThirdProblem/Leaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirdProblem/Leaf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThirdProblem/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirdProblem/Tree.java" afterDir="false" />
-    </list>
+    <list default="true" id="5d1293a2-70c2-465c-9254-8f98dd998da2" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

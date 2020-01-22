@@ -19,4 +19,8 @@ public class Animal {
     public void setNumberOfLegs(int numberOfLegs) {
         this.numberOfLegs = numberOfLegs;
     }
+
+    public void makeSounds(){
+
+    }
 }
