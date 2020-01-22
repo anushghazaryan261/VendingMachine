@@ -4,7 +4,7 @@ public class House {
 
     private Door[] doors;
     private Window[] windows;
-    private String adress;
+    private String address;
 
     public House(Door[] doors) {
         this.doors = doors;
@@ -14,19 +14,19 @@ public class House {
         this.windows = windows;
     }
 
-    public House(String adress) {
-        this.adress = adress;
+    public House(String address) {
+        this.address = address;
     }
 
     public House() {
     }
 
     public String getAdress() {
-        return adress;
+        return address;
     }
 
-    public void setAdress(String adress) {
-        this.adress = adress;
+    public void setAdress(String address) {
+        this.address = address;
     }
 
 
@@ -48,7 +48,9 @@ public class House {
     }
 
     public void lockTheHouseByKey(){
-        System.out.println("Locking the house by key");
+        if(!doors[0].isLocked()){
+            doors[0].setLocked(true);
+        }
     }
     public void printQuantityOfWindows(){
         System.out.println("The quantity of windows is: " + this.windows.length);

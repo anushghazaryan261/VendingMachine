@@ -4,6 +4,7 @@ public class Door {
     private double width;
     private double height;
     private String material;
+    private boolean isLocked;
 
     public Door(double height) {
         this.height = height;
@@ -19,6 +20,15 @@ public class Door {
     }
 
     public Door() {
+    }
+
+
+    public boolean isLocked() {
+        return isLocked;
+    }
+
+    public void setLocked(boolean locked) {
+        isLocked = locked;
     }
 
     public String getMaterial() {

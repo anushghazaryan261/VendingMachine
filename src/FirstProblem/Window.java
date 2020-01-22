@@ -1,6 +1,7 @@
 package FirstProblem;
 
 public class Window {
+
     private double width;
     private double height;
 
