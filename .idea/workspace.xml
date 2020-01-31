@@ -1,27 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d1293a2-70c2-465c-9254-8f98dd998da2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problem1/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem10/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem11/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem12/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem13/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem14/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem15/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem16/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem17/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem2/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem3/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem4/array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem5/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem6/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem7/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem8/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem9/arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="5d1293a2-70c2-465c-9254-8f98dd998da2" name="Default Changelist" comment="Vending Machine">
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW/Hw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IllegalRadiusExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IllegalTriangleExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyFirstCheckedExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Bounty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Chips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VendingMachine/ChocolateBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Cola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Doritos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Fanta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VendingMachine/HzorChips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Lays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Mars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Pepsi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Snickers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VendingMachine/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atClass/Coffe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atClass/CoffeeMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atClass/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atClass/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atClass/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atClass/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atClass/TypeOfDrinks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Homework2/FifthProblem/Animal.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Homework2/FifthProblem/Dog.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Homework2/FifthProblem/Puppy.class" beforeDir="false" />
@@ -30,25 +45,30 @@
       <change beforePath="$PROJECT_DIR$/out/production/Homework2/FirstProblem/Window.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Homework2/FourthProblem/Photo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Homework2/FourthProblem/PhotoAlbum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework2/META-INF/Homework2.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Homework2/Randd/Randd.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Homework2/SecondProblem/Bud.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Homework2/SecondProblem/Petal.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Homework2/SecondProblem/Rose.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Homework2/ThirdProblem/Leaf.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Homework2/ThirdProblem/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FifthProblem/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FifthProblem/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FifthProblem/Puppy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstProblem/Door.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstProblem/House.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstProblem/Window.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FourthProblem/Photo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FourthProblem/PhotoAlbum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SecondProblem/Bud.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SecondProblem/Petal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SecondProblem/Rose.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThirdProblem/Leaf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThirdProblem/Tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem1/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem10/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem11/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem12/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem13/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem14/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem15/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem16/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem17/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem2/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem3/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem4/array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem6/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem7/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem8/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem9/arrays.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,7 +81,148 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VendingMachine/VendingMachine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="92" column="59" selection-start-line="92" selection-start-column="59" selection-end-line="92" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#593#594#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
+                <element signature="e#699#700#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+                <element signature="e#819#820#0" expanded="true" />
+                <element signature="e#866#867#0" expanded="true" />
+                <element signature="e#1136#1137#0" expanded="true" />
+                <element signature="e#1184#1185#0" expanded="true" />
+                <element signature="e#1457#1458#0" expanded="true" />
+                <element signature="e#1504#1505#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VendingMachine/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="93" selection-start-line="93" selection-end-line="93" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VendingMachine/Command.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+              <folding>
+                <element signature="e#122#123#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VendingMachine/Converter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/VendingMachine/Chips.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#119#120#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VendingMachine/HzorChips.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <folding>
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VendingMachine/Lays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <folding>
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VendingMachine/Mars.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <folding>
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VendingMachine/Pepsi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <folding>
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VendingMachine/Snickers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <folding>
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -92,62 +253,62 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Random/Random.java" />
-        <option value="$PROJECT_DIR$/src/Randd/Random.java" />
-        <option value="$PROJECT_DIR$/src/Randd/Randd.java" />
-        <option value="$PROJECT_DIR$/src/FifthProblem/Dog.java" />
-        <option value="$PROJECT_DIR$/src/FirstProblem/Door.java" />
-        <option value="$PROJECT_DIR$/src/FirstProblem/House.java" />
-        <option value="$PROJECT_DIR$/src/FirstProblem/Window.java" />
-        <option value="$PROJECT_DIR$/src/FourthProblem/Photo.java" />
-        <option value="$PROJECT_DIR$/src/FourthProblem/PhotoAlbum.java" />
-        <option value="$PROJECT_DIR$/src/SecondProblem/Petal.java" />
-        <option value="$PROJECT_DIR$/src/SecondProblem/Rose.java" />
-        <option value="$PROJECT_DIR$/src/ThirdProblem/Leaf.java" />
-        <option value="$PROJECT_DIR$/src/ThirdProblem/Tree.java" />
-        <option value="$PROJECT_DIR$/src/FifthProblem/Animal.java" />
-        <option value="$PROJECT_DIR$/src/FifthProblem/Puppy.java" />
-        <option value="$PROJECT_DIR$/src/SecondProblem/Bud.java" />
-        <option value="$PROJECT_DIR$/src/adono.java" />
-        <option value="$PROJECT_DIR$/src/atClass/TypeOfAnimal.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Main.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Animal.java" />
+        <option value="$PROJECT_DIR$/src/atClass/Wing.java" />
+        <option value="$PROJECT_DIR$/src/atClass/Mouse.java" />
         <option value="$PROJECT_DIR$/src/atClass/Bird.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Eagle.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Mammal.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Reptile.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Seagul.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Moghes.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Lion.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Leopard.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Crocodile.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Anaconda.java" />
-        <option value="$PROJECT_DIR$/src/atClass/RiskLevel.java" />
-        <option value="$PROJECT_DIR$/src/atClass/RedBook.java" />
-        <option value="$PROJECT_DIR$/src/javaClass.java" />
-        <option value="$PROJECT_DIR$/src/Homework3/arrays.java" />
-        <option value="$PROJECT_DIR$/src/problem1/arrays.java" />
-        <option value="$PROJECT_DIR$/src/problem2/arrays.java" />
-        <option value="$PROJECT_DIR$/src/problem3/arrays.java" />
-        <option value="$PROJECT_DIR$/src/problem4/array.java" />
-        <option value="$PROJECT_DIR$/src/problem5/arrays.java" />
-        <option value="$PROJECT_DIR$/src/problem6/arrays.java" />
-        <option value="$PROJECT_DIR$/src/problem7/arrays.java" />
-        <option value="$PROJECT_DIR$/src/problem8/arrays.java" />
-        <option value="$PROJECT_DIR$/src/problem9/arrays.java" />
-        <option value="$PROJECT_DIR$/src/problem10/arrays.java" />
-        <option value="$PROJECT_DIR$/src/problem11/arrays.java" />
-        <option value="$PROJECT_DIR$/src/problem12/arrays.java" />
-        <option value="$PROJECT_DIR$/src/problem13/arrays.java" />
-        <option value="$PROJECT_DIR$/src/problem14/arrays.java" />
-        <option value="$PROJECT_DIR$/src/problem15/arrays.java" />
-        <option value="$PROJECT_DIR$/src/problem16/arrays.java" />
-        <option value="$PROJECT_DIR$/src/problem17/arrays.java" />
+        <option value="$PROJECT_DIR$/src/atClass/Company.java" />
+        <option value="$PROJECT_DIR$/src/atClass/YellowPages.java" />
+        <option value="$PROJECT_DIR$/src/atClass/main.java" />
+        <option value="$PROJECT_DIR$/src/atClass2/UsernameAndPassword.java" />
+        <option value="$PROJECT_DIR$/src/atClass2/Cridentials.java" />
+        <option value="$PROJECT_DIR$/src/atClass2/User.java" />
+        <option value="$PROJECT_DIR$/src/strings.java" />
+        <option value="$PROJECT_DIR$/src/Strings.java" />
+        <option value="$PROJECT_DIR$/src/atClass2/Company.java" />
+        <option value="$PROJECT_DIR$/src/atClass2/YellowPages.java" />
+        <option value="$PROJECT_DIR$/src/atClass2/Main.java" />
+        <option value="$PROJECT_DIR$/src/atClass/newCommand.java" />
+        <option value="$PROJECT_DIR$/src/atClass/TypeOfDrinks.java" />
+        <option value="$PROJECT_DIR$/src/atClass/Drink.java" />
+        <option value="$PROJECT_DIR$/src/atClass/Tea.java" />
+        <option value="$PROJECT_DIR$/src/atClass/Coffe.java" />
+        <option value="$PROJECT_DIR$/src/atClass/CoffeeMachine.java" />
+        <option value="$PROJECT_DIR$/src/atClass/Command.java" />
+        <option value="$PROJECT_DIR$/src/atClass/Main.java" />
+        <option value="$PROJECT_DIR$/src/atClass/Converter.java" />
+        <option value="$PROJECT_DIR$/src/Hw.java" />
+        <option value="$PROJECT_DIR$/src/HW/Hw.java" />
+        <option value="$PROJECT_DIR$/src/HW/Average.java" />
+        <option value="$PROJECT_DIR$/src/MyFirstCheckedExeption.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/IllegalRadiusExeption.java" />
+        <option value="$PROJECT_DIR$/src/Circle.java" />
+        <option value="$PROJECT_DIR$/src/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/IllegalTriangleExeption.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine/Product.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine/Drink.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine/Chips.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine/ChocolateBar.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine/Converter.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine/Bounty.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine/Cola.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine/Doritos.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine/Fanta.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine/HzorChips.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine/Lays.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine/Mars.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine/Pepsi.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine/Snickers.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine/VendingMachine.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine/Main.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine/Command.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
+    <option name="x" value="-10" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
@@ -159,7 +320,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -183,16 +343,41 @@
               <item name="first_program" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="first_program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_program" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="atClass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_program" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HW" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_program" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="VendingMachine" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/FirstProblem" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+      <recent name="atClass" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -206,7 +391,54 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.arrays (4)">
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.Average" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.Hw" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VendingMachine.Main" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VendingMachine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="adono" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="atClass.adono" />
       <extension name="coverage">
@@ -219,86 +451,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrays (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem14.arrays" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="arrays (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem15.arrays" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="arrays (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem17.arrays" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="arrays (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem2.arrays" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="arrays (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem16.arrays" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.adono" />
-      <item itemvalue="Application.arrays (1)" />
-      <item itemvalue="Application.arrays (2)" />
-      <item itemvalue="Application.arrays (5)" />
-      <item itemvalue="Application.arrays (3)" />
-      <item itemvalue="Application.arrays (4)" />
+      <item itemvalue="Application.Hw" />
+      <item itemvalue="Application.Average" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.arrays (4)" />
-        <item itemvalue="Application.arrays (3)" />
-        <item itemvalue="Application.arrays (5)" />
-        <item itemvalue="Application.arrays (2)" />
-        <item itemvalue="Application.arrays (1)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Average" />
+        <item itemvalue="Application.Hw" />
       </list>
     </recent_temporary>
   </component>
@@ -313,12 +480,30 @@
       <option name="presentableId" value="Default" />
       <updated>1557567974099</updated>
     </task>
+    <task id="LOCAL-00001" summary="homework3">
+      <created>1579865291392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579865291392</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24899329" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2785235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -327,15 +512,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3557833" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3557833" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32796487" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32796487" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32796487" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -346,175 +531,481 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework3" />
+    <MESSAGE value="Vending Machine" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vending Machine" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Randd/Randd.java" />
-    <entry file="file://$PROJECT_DIR$/src/FifthProblem/Animal.java" />
-    <entry file="file://$PROJECT_DIR$/src/FifthProblem/Dog.java" />
-    <entry file="file://$PROJECT_DIR$/src/FifthProblem/Puppy.java" />
-    <entry file="file://$PROJECT_DIR$/src/FirstProblem/Door.java" />
-    <entry file="file://$PROJECT_DIR$/src/FirstProblem/House.java" />
-    <entry file="file://$PROJECT_DIR$/src/FirstProblem/Window.java" />
-    <entry file="file://$PROJECT_DIR$/src/FourthProblem/Photo.java" />
-    <entry file="file://$PROJECT_DIR$/src/FourthProblem/PhotoAlbum.java" />
-    <entry file="file://$PROJECT_DIR$/src/ThirdProblem/Leaf.java" />
-    <entry file="file://$PROJECT_DIR$/src/ThirdProblem/Tree.java" />
-    <entry file="file://$PROJECT_DIR$/src/SecondProblem/Bud.java" />
-    <entry file="file://$PROJECT_DIR$/src/SecondProblem/Petal.java" />
-    <entry file="file://$PROJECT_DIR$/src/SecondProblem/Rose.java" />
-    <entry file="file://$PROJECT_DIR$/src/adono.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass/TypeOfAnimal.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass/Reptile.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass/Seagul.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass/Leopard.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass/Eagle.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass/Moghes.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass/Lion.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass/RiskLevel.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass/Animal.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass/Anaconda.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass/Mammal.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass/Bird.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass/Crocodile.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass/RedBook.java" />
-    <entry file="file://$PROJECT_DIR$/java.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaClass.java" />
-    <entry file="file://$PROJECT_DIR$/src/problem1/arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem2/arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem3/arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem4/array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem6/arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/atClass/Company.java" />
+    <entry file="file://$PROJECT_DIR$/src/atClass/YellowPages.java" />
+    <entry file="file://$PROJECT_DIR$/src/atClass2/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/atClass2/Cridentials.java" />
+    <entry file="file://$PROJECT_DIR$/src/Strings.java" />
+    <entry file="file://$PROJECT_DIR$/src/atClass2/YellowPages.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem7/arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/atClass2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem8/arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        <state relative-caret-position="239">
+          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrays.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem10.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem9/arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/atClass2/Company.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="935">
+          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem10/arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/atClass/Input.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="657" column="18" selection-start-line="657" selection-start-column="18" selection-end-line="657" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atClass/TypeOfDrinks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HW/Average.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/ArrayIndexOutOfBoundsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="36" column="55" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="55" />
+          <folding>
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/IndexOutOfBoundsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/RuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="42" column="43" lean-forward="true" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyFirstCheckedExeption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="375" column="18" selection-start-line="375" selection-start-column="18" selection-end-line="375" selection-end-column="18" />
+          <folding>
+            <element signature="e#15711#15712#0" expanded="true" />
+            <element signature="e#15747#15748#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IllegalTriangleExeption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IllegalRadiusExeption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="10" selection-end-column="29" />
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HW/Hw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VendingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atClass/Drink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atClass/Coffe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Drink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem11/arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/VendingMachine/ChocolateBar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem12/arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        <state relative-caret-position="51">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem13/arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/atClass/Converter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atClass/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atClass/Tea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atClass/CoffeeMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="143" column="21" selection-start-line="143" selection-start-column="21" selection-end-line="143" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atClass/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem14/arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem15/arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem5/arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem17/arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem16/arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Bounty.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Cola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Doritos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Fanta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#80#81#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VendingMachine/HzorChips.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Lays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Mars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Pepsi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Snickers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VendingMachine/VendingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="92" column="59" selection-start-line="92" selection-start-column="59" selection-end-line="92" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#1136#1137#0" expanded="true" />
+            <element signature="e#1184#1185#0" expanded="true" />
+            <element signature="e#1457#1458#0" expanded="true" />
+            <element signature="e#1504#1505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Converter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Chips.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
