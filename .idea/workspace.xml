@@ -2,73 +2,87 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d1293a2-70c2-465c-9254-8f98dd998da2" name="Default Changelist" comment="Vending Machine">
-      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/Average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/Hw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IllegalRadiusExeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IllegalTriangleExeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyFirstCheckedExeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Bounty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Chips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VendingMachine/ChocolateBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Cola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Doritos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Drink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Fanta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VendingMachine/HzorChips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Lays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Mars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Pepsi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VendingMachine/Snickers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VendingMachine/VendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atClass/Coffe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atClass/CoffeeMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atClass/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atClass/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atClass/Drink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atClass/Tea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atClass/TypeOfDrinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/AdultsAndKids.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/ByNationality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/ConvertTheElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/FilterTheShortWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/Flatten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/GetKidNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/NamesByComas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/Oldest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework2/FifthProblem/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework2/FifthProblem/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework2/FifthProblem/Puppy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework2/FirstProblem/Door.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework2/FirstProblem/House.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework2/FirstProblem/Window.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework2/FourthProblem/Photo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework2/FourthProblem/PhotoAlbum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework2/META-INF/Homework2.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework2/Randd/Randd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework2/SecondProblem/Bud.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework2/SecondProblem/Petal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework2/SecondProblem/Rose.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework2/ThirdProblem/Leaf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework2/ThirdProblem/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem1/arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem10/arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem11/arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem12/arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem13/arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem14/arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem15/arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem16/arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem17/arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem2/arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem3/arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem4/array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem5/arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem6/arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem7/arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem8/arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem9/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/HW/Average.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/HW/Hw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/IllegalRadiusExeption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/IllegalTriangleExeption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/MyFirstCheckedExeption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/VendingMachine/Bounty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/VendingMachine/Chips.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/VendingMachine/ChocolateBar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/VendingMachine/Cola.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/VendingMachine/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/VendingMachine/Converter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/VendingMachine/Doritos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/VendingMachine/Drink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/VendingMachine/Fanta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/VendingMachine/HzorChips.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/VendingMachine/Lays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/VendingMachine/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/VendingMachine/Mars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/VendingMachine/Pepsi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/VendingMachine/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/VendingMachine/Snickers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/VendingMachine/VendingMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/atClass/Coffe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/atClass/CoffeeMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/atClass/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/atClass/Converter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/atClass/Drink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/atClass/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/atClass/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/atClass/Tea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/atClass/TypeOfDrinks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/Average.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/Hw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IllegalRadiusExeption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IllegalTriangleExeption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyFirstCheckedExeption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VendingMachine/Bounty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VendingMachine/Chips.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VendingMachine/ChocolateBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VendingMachine/Cola.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VendingMachine/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VendingMachine/Converter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VendingMachine/Doritos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VendingMachine/Drink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VendingMachine/Fanta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VendingMachine/HzorChips.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VendingMachine/Lays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VendingMachine/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VendingMachine/Mars.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VendingMachine/Pepsi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VendingMachine/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VendingMachine/Snickers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VendingMachine/VendingMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atClass/Coffe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atClass/CoffeeMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atClass/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atClass/Converter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atClass/Drink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atClass/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atClass/Tea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atClass/TypeOfDrinks.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,36 +97,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VendingMachine/VendingMachine.java">
+        <entry file="file://$PROJECT_DIR$/src/Homework/FilterTheShortWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="92" column="59" selection-start-line="92" selection-start-column="59" selection-end-line="92" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#517#518#0" expanded="true" />
-                <element signature="e#559#560#0" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
-                <element signature="e#655#656#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
-                <element signature="e#735#736#0" expanded="true" />
-                <element signature="e#819#820#0" expanded="true" />
-                <element signature="e#866#867#0" expanded="true" />
-                <element signature="e#1136#1137#0" expanded="true" />
-                <element signature="e#1184#1185#0" expanded="true" />
-                <element signature="e#1457#1458#0" expanded="true" />
-                <element signature="e#1504#1505#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VendingMachine/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="93" selection-start-line="93" selection-end-line="93" />
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,103 +109,104 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VendingMachine/Command.java">
+        <entry file="file://$PROJECT_DIR$/src/Homework/Flatten.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+            <state relative-caret-position="17">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VendingMachine/Converter.java">
+        <entry file="file://$PROJECT_DIR$/src/Homework/Oldest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="306">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Homework/GetKidNames.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Homework/AdultsAndKids.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Homework/ByNationality.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" column="67" lean-forward="true" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/VendingMachine/Chips.java">
+        <entry file="file://$PROJECT_DIR$/src/Homework/NamesByComas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="408">
+              <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
               <folding>
-                <element signature="e#92#93#0" expanded="true" />
-                <element signature="e#119#120#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VendingMachine/HzorChips.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/stream/Collectors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="362">
+              <caret line="804" column="42" selection-start-line="804" selection-start-column="42" selection-end-line="804" selection-end-column="42" />
               <folding>
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#33990#33991#0" expanded="true" />
+                <element signature="e#34045#34046#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VendingMachine/Lays.java">
+        <entry file="file://$PROJECT_DIR$/src/Homework/Sum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-              <folding>
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VendingMachine/Mars.java">
+        <entry file="file://$PROJECT_DIR$/src/Homework/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-              <folding>
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VendingMachine/Pepsi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-              <folding>
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VendingMachine/Snickers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-              <folding>
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="374">
+              <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -248,69 +237,70 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/Homework" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/atClass/Wing.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Mouse.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Bird.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Company.java" />
-        <option value="$PROJECT_DIR$/src/atClass/YellowPages.java" />
-        <option value="$PROJECT_DIR$/src/atClass/main.java" />
-        <option value="$PROJECT_DIR$/src/atClass2/UsernameAndPassword.java" />
-        <option value="$PROJECT_DIR$/src/atClass2/Cridentials.java" />
-        <option value="$PROJECT_DIR$/src/atClass2/User.java" />
-        <option value="$PROJECT_DIR$/src/strings.java" />
-        <option value="$PROJECT_DIR$/src/Strings.java" />
-        <option value="$PROJECT_DIR$/src/atClass2/Company.java" />
-        <option value="$PROJECT_DIR$/src/atClass2/YellowPages.java" />
-        <option value="$PROJECT_DIR$/src/atClass2/Main.java" />
-        <option value="$PROJECT_DIR$/src/atClass/newCommand.java" />
-        <option value="$PROJECT_DIR$/src/atClass/TypeOfDrinks.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Drink.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Tea.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Coffe.java" />
-        <option value="$PROJECT_DIR$/src/atClass/CoffeeMachine.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Command.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Main.java" />
-        <option value="$PROJECT_DIR$/src/atClass/Converter.java" />
-        <option value="$PROJECT_DIR$/src/Hw.java" />
-        <option value="$PROJECT_DIR$/src/HW/Hw.java" />
-        <option value="$PROJECT_DIR$/src/HW/Average.java" />
-        <option value="$PROJECT_DIR$/src/MyFirstCheckedExeption.java" />
-        <option value="$PROJECT_DIR$/src/Test.java" />
-        <option value="$PROJECT_DIR$/src/IllegalRadiusExeption.java" />
-        <option value="$PROJECT_DIR$/src/Circle.java" />
-        <option value="$PROJECT_DIR$/src/Triangle.java" />
-        <option value="$PROJECT_DIR$/src/IllegalTriangleExeption.java" />
+        <option value="$PROJECT_DIR$/src/Anushi.java" />
+        <option value="$PROJECT_DIR$/src/VendingMachine/IllegalCommandExeption.java" />
+        <option value="$PROJECT_DIR$/src/MyArrayList.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/VendingMachine.java" />
-        <option value="$PROJECT_DIR$/src/VendingMachine/Product.java" />
-        <option value="$PROJECT_DIR$/src/VendingMachine/Drink.java" />
-        <option value="$PROJECT_DIR$/src/VendingMachine/Chips.java" />
-        <option value="$PROJECT_DIR$/src/VendingMachine/ChocolateBar.java" />
-        <option value="$PROJECT_DIR$/src/VendingMachine/Converter.java" />
-        <option value="$PROJECT_DIR$/src/VendingMachine/Bounty.java" />
-        <option value="$PROJECT_DIR$/src/VendingMachine/Cola.java" />
-        <option value="$PROJECT_DIR$/src/VendingMachine/Doritos.java" />
-        <option value="$PROJECT_DIR$/src/VendingMachine/Fanta.java" />
-        <option value="$PROJECT_DIR$/src/VendingMachine/HzorChips.java" />
-        <option value="$PROJECT_DIR$/src/VendingMachine/Lays.java" />
-        <option value="$PROJECT_DIR$/src/VendingMachine/Mars.java" />
-        <option value="$PROJECT_DIR$/src/VendingMachine/Pepsi.java" />
-        <option value="$PROJECT_DIR$/src/VendingMachine/Snickers.java" />
-        <option value="$PROJECT_DIR$/src/VendingMachine/VendingMachine.java" />
-        <option value="$PROJECT_DIR$/src/VendingMachine/Main.java" />
-        <option value="$PROJECT_DIR$/src/VendingMachine/Command.java" />
+        <option value="$PROJECT_DIR$/src/HW/Average.java" />
+        <option value="$PROJECT_DIR$/src/HW/ThirdProblem.java" />
+        <option value="$PROJECT_DIR$/src/HW/Main.java" />
+        <option value="$PROJECT_DIR$/src/atClass1/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/atClass1/Strudent.java" />
+        <option value="$PROJECT_DIR$/src/atClass1/Student.java" />
+        <option value="$PROJECT_DIR$/src/atClass1/A.java" />
+        <option value="$PROJECT_DIR$/src/atClass1/Animal.java" />
+        <option value="$PROJECT_DIR$/src/atClass1/Bird.java" />
+        <option value="$PROJECT_DIR$/src/atClass1/Fish.java" />
+        <option value="$PROJECT_DIR$/src/atClass1/Mammal.java" />
+        <option value="$PROJECT_DIR$/src/atClass1/FlyingFish.java" />
+        <option value="$PROJECT_DIR$/src/atClass1/Bat.java" />
+        <option value="$PROJECT_DIR$/src/atClass1/Animals.java" />
+        <option value="$PROJECT_DIR$/src/Pss.java" />
+        <option value="$PROJECT_DIR$/src/atClass1/Person.java" />
+        <option value="$PROJECT_DIR$/src/atClass1/Main.java" />
+        <option value="$PROJECT_DIR$/src/Squares.java" />
+        <option value="$PROJECT_DIR$/src/NumericFunc.java" />
+        <option value="$PROJECT_DIR$/src/BlockLambdaDemo.java" />
+        <option value="$PROJECT_DIR$/src/GenericFunctionalInterfaceDemo.java" />
+        <option value="$PROJECT_DIR$/src/LambdaArgumentDemo/StringFunc.java" />
+        <option value="$PROJECT_DIR$/src/LambdaArgumentDemo/LambdaArgumentDemo.java" />
+        <option value="$PROJECT_DIR$/src/MyFunc.java" />
+        <option value="$PROJECT_DIR$/src/IntPredicate.java" />
+        <option value="$PROJECT_DIR$/src/MyIntNum.java" />
+        <option value="$PROJECT_DIR$/src/MethodRefDemo2.java" />
+        <option value="$PROJECT_DIR$/src/ConvertTheElements.java" />
+        <option value="$PROJECT_DIR$/src/FilterTheShortWords.java" />
+        <option value="$PROJECT_DIR$/src/Flatten.java" />
+        <option value="$PROJECT_DIR$/src/Oldest.java" />
+        <option value="$PROJECT_DIR$/src/Sum.java" />
+        <option value="$PROJECT_DIR$/src/GetKidNames.java" />
+        <option value="$PROJECT_DIR$/src/ByNationality.java" />
+        <option value="$PROJECT_DIR$/src/NamesByComas.java" />
+        <option value="$PROJECT_DIR$/src/AdultsAndKids.java" />
+        <option value="$PROJECT_DIR$/src/Person.java" />
+        <option value="$PROJECT_DIR$/src/atClass.java" />
+        <option value="$PROJECT_DIR$/src/atClass/Genre.java" />
+        <option value="$PROJECT_DIR$/src/atClass/Movie.java" />
+        <option value="$PROJECT_DIR$/src/atClass/User.java" />
+        <option value="$PROJECT_DIR$/src/atClass/Main.java" />
+        <option value="$PROJECT_DIR$/src/atClass/MovieService.java" />
+        <option value="$PROJECT_DIR$/src/Homework/Person.java" />
+        <option value="$PROJECT_DIR$/src/Homework/Oldest.java" />
+        <option value="$PROJECT_DIR$/src/Homework/Sum.java" />
+        <option value="$PROJECT_DIR$/src/Homework/GetKidNames.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
-    <option name="width" value="1750" />
-    <option name="height" value="980" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -320,6 +310,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -353,24 +344,17 @@
               <item name="first_program" type="b2602c69:ProjectViewProjectNode" />
               <item name="first_program" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HW" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="first_program" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first_program" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="VendingMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/VendingMachine" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
@@ -391,13 +375,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.Average" />
+  <component name="RunManager" selected="Application.NamesByComas">
+    <configuration name="AdultsAndKids" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.AdultsAndKids" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW.*" />
+          <option name="PATTERN" value="Homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -405,26 +389,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.Hw" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VendingMachine.Main" />
+    <configuration name="ByNationality" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.ByNationality" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="VendingMachine.*" />
+          <option name="PATTERN" value="Homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -432,9 +402,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="GetKidNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.GetKidNames" />
       <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NamesByComas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.NamesByComas" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.Sum" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -453,19 +455,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.adono" />
-      <item itemvalue="Application.Hw" />
-      <item itemvalue="Application.Average" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Sum" />
+      <item itemvalue="Application.GetKidNames" />
+      <item itemvalue="Application.AdultsAndKids" />
+      <item itemvalue="Application.ByNationality" />
+      <item itemvalue="Application.NamesByComas" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Average" />
-        <item itemvalue="Application.Hw" />
+        <item itemvalue="Application.NamesByComas" />
+        <item itemvalue="Application.ByNationality" />
+        <item itemvalue="Application.AdultsAndKids" />
+        <item itemvalue="Application.GetKidNames" />
+        <item itemvalue="Application.Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -501,9 +503,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2785235" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33020133" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -511,16 +512,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3557833" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32796487" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34260616" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329429" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32796487" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32796487" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49932885" visible="true" weight="0.32796487" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.2635432" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32796487" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32796487" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -531,480 +532,273 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="homework3" />
     <MESSAGE value="Vending Machine" />
     <option name="LAST_COMMIT_MESSAGE" value="Vending Machine" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/atClass/Company.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass/YellowPages.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass2/User.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass2/Cridentials.java" />
-    <entry file="file://$PROJECT_DIR$/src/Strings.java" />
-    <entry file="file://$PROJECT_DIR$/src/atClass2/YellowPages.java">
+    <entry file="file://$PROJECT_DIR$/src/HW/Main.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Date.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="297">
+          <caret line="130" column="13" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atClass1/Palindrome.java" />
+    <entry file="file://$PROJECT_DIR$/src/atClass1/Student.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="1256" column="19" selection-start-line="1256" selection-start-column="19" selection-end-line="1256" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atClass1/A.java" />
+    <entry file="file://$PROJECT_DIR$/src/atClass1/Swimming.java" />
+    <entry file="file://$PROJECT_DIR$/src/atClass1/Walking.java" />
+    <entry file="file://$PROJECT_DIR$/src/atClass1/Flying.java" />
+    <entry file="file://$PROJECT_DIR$/src/atClass1/Animal.java" />
+    <entry file="file://$PROJECT_DIR$/src/atClass1/Bird.java" />
+    <entry file="file://$PROJECT_DIR$/src/atClass1/Fish.java" />
+    <entry file="file://$PROJECT_DIR$/src/atClass1/Mammal.java" />
+    <entry file="file://$PROJECT_DIR$/src/atClass1/FlyingFish.java" />
+    <entry file="file://$PROJECT_DIR$/src/atClass1/Bat.java" />
+    <entry file="file://$PROJECT_DIR$/src/atClass1/Animals.java" />
+    <entry file="file://$PROJECT_DIR$/src/Pss.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atClass1/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/atClass1/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/NumericFunc.java" />
+    <entry file="file://$PROJECT_DIR$/src/BlockLambdaDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/Squares.java" />
+    <entry file="file://$PROJECT_DIR$/src/GenericFunctionalInterfaceDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/LambdaArgumentDemo/StringFunc.java" />
+    <entry file="file://$PROJECT_DIR$/src/LambdaArgumentDemo/LambdaArgumentDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/MyFunc.java" />
+    <entry file="file://$PROJECT_DIR$/src/IntPredicate.java" />
+    <entry file="file://$PROJECT_DIR$/src/MethodRefDemo2.java" />
+    <entry file="file://$PROJECT_DIR$/src/MyIntNum.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-519">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="579" column="15" lean-forward="true" selection-start-line="579" selection-start-column="15" selection-end-line="579" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#26957#26958#0" expanded="true" />
+            <element signature="e#27022#27023#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/atClass2/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/atClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/atClass/Genre.java" />
+    <entry file="file://$PROJECT_DIR$/src/atClass/Movie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/atClass2/Company.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/atClass/Input.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="657" column="18" selection-start-line="657" selection-start-column="18" selection-end-line="657" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/atClass/TypeOfDrinks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HW/Average.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/ArrayIndexOutOfBoundsException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="36" column="55" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="55" />
-          <folding>
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/IndexOutOfBoundsException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/RuntimeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="42" column="43" lean-forward="true" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyFirstCheckedExeption.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Throwable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="375" column="18" selection-start-line="375" selection-start-column="18" selection-end-line="375" selection-end-column="18" />
-          <folding>
-            <element signature="e#15711#15712#0" expanded="true" />
-            <element signature="e#15747#15748#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-          <folding>
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-          <folding>
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#783#784#0" expanded="true" />
-            <element signature="e#825#826#0" expanded="true" />
-            <element signature="e#859#860#0" expanded="true" />
-            <element signature="e#896#897#0" expanded="true" />
-            <element signature="e#924#925#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IllegalTriangleExeption.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IllegalRadiusExeption.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HW/Hw.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VendingMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/atClass/Drink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/atClass/Coffe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Drink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VendingMachine/ChocolateBar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/atClass/Converter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="47" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/atClass/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/atClass/Tea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/atClass/CoffeeMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-          <folding>
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#525#526#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="143" column="21" selection-start-line="143" selection-start-column="21" selection-end-line="143" selection-end-column="21" />
+        <state relative-caret-position="459">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/atClass/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        <state relative-caret-position="1547">
+          <caret line="91" column="40" selection-start-line="91" selection-start-column="40" selection-end-line="91" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Bounty.java">
+    <entry file="file://$PROJECT_DIR$/src/atClass/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="323">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
           <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Cola.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Doritos.java">
+    <entry file="file://$PROJECT_DIR$/src/Homework/ConvertTheElements.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Fanta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding>
-            <element signature="e#80#81#0" expanded="true" />
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VendingMachine/HzorChips.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Lays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Mars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Pepsi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Snickers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VendingMachine/VendingMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="92" column="59" selection-start-line="92" selection-start-column="59" selection-end-line="92" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#735#736#0" expanded="true" />
-            <element signature="e#819#820#0" expanded="true" />
-            <element signature="e#866#867#0" expanded="true" />
-            <element signature="e#1136#1137#0" expanded="true" />
-            <element signature="e#1184#1185#0" expanded="true" />
-            <element signature="e#1457#1458#0" expanded="true" />
-            <element signature="e#1504#1505#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="93" selection-start-line="93" selection-end-line="93" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Command.java">
+    <entry file="file://$PROJECT_DIR$/src/Homework/FilterTheShortWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Converter.java">
+    <entry file="file://$PROJECT_DIR$/src/Homework/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="374">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VendingMachine/Chips.java">
+    <entry file="file://$PROJECT_DIR$/src/Homework/Flatten.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="17">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atClass/MovieService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="606" column="6" selection-start-line="606" selection-start-column="6" selection-end-line="606" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Homework/Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Homework/Oldest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Homework/GetKidNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="804" column="42" selection-start-line="804" selection-start-column="42" selection-end-line="804" selection-end-column="42" />
+          <folding>
+            <element signature="e#33990#33991#0" expanded="true" />
+            <element signature="e#34045#34046#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Homework/AdultsAndKids.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Homework/ByNationality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="67" lean-forward="true" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Homework/NamesByComas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
